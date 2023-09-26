@@ -8,7 +8,7 @@
 
 ## Interest
 <p align="center">
-👀 I want to learn more about web development, Microsoft Power Apps and on exciting tech projects. I am passionate about making open-source more accessible, developing technology to help people, and fostering community. Some of the Technologies I enjoy learning are ReactJS, Microsoft Power Apps, Model-Driven App.
+👀 I want to learn more about web development, Microsoft Power Apps and on exciting tech projects. I am passionate about making open-source more accessible, developing technology to help people, and fostering community. Some of the Technologies I enjoy learning are ReactJS, Microsoft Power Apps, and Model-Driven App.
 </p>
 
 ## Contact Me
