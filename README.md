@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
  I am Reyna ✨
-</p>
+</h2>
 
 👋 Hi, I’m Reyna May A. Roma, with a background as an Application Development Associate at Accenture Inc., Philippines,  a degree of Bachelor of Science in Computer Engineering, and a graduate of Lighthouse Labs, Canada.
 
