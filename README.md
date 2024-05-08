@@ -75,6 +75,24 @@
 </div>
 
 <div align="center">
+    <h2>:monocle_face: GitHub Stats</h2>
+    <p>Peek into my GitHub stats to see how I jugggle code, soda, and updates! Dive in to check out the milestones of my digital journey!</p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reynaroma&theme=github_dark"             alt="Reynaroma's GitHub Stats"/>
 </div>
+<table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reynaroma&theme=github_dark" alt="Reynaroma's GitHub Stats"/></td>   
+        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaroma&theme=merko" alt="Reynaroma's Contribution Streak"/></td>
+    </tr>
+</table>
+
+
+<table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reynaroma&theme=github_dark" alt="Reynaroma's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reynaroma&theme=github_dark&utcOffset=10" alt="Reynaroma's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reynaroma&theme=github_dark" alt="Reynaroma's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reynaroma&theme=github_dark" alt="Reynaroma's GitHub Stats"/></td>
+    </tr>
+</table>
 
