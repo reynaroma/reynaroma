@@ -24,17 +24,19 @@
         <img src="https://img.shields.io/badge/REYNA_MAY_ROMA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/reynaroma">
-    <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="VIEW ON GITHUB"/>
+        <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="VIEW ON GITHUB"/>
     </a>
     <a href="mailto:roma.reynamay@gmail.com">
-    <img src="https://img.shields.io/badge/roma.reynamay@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/roma.reynamay@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://next-animated-portfolio-reynaroma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-YourPortfolioColor?style=for-the-badge" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge" alt="Portfolio"/>
     </a>
     <a href="https://github.com/reynaroma">
         <img src="https://komarev.com/ghpvc/?username=reynaroma" alt="Profile Views"/>
     </a>
-    [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://flowcv.com/resume/eldhilr8bi)
+    <a href="https://flowcv.com/resume/eldhilr8bi/">
+        <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge" alt="Portfolio"/>
+    </a>
 </div>
 
