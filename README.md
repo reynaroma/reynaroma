@@ -6,6 +6,6 @@
 
 <div align="center">
     <p>
-        <img src="https://media.giphy.com/media/8J27fbWKRKvFmgdy5f/giphy.gif" alt="Descriptive Text for the GIF" />
+        <img src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx/giphy.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
