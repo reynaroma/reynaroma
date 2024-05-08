@@ -30,10 +30,10 @@
         <img src="https://img.shields.io/badge/roma.reynamay@gmail.com-ac9bd6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://next-animated-portfolio-reynaroma.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-9cc47e?style=for-the-badge" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/View_my_Portfolio-9cc47e?style=for-the-badge" alt="Portfolio"/>
     </a>
         <a href="https://flowcv.com/resume/eldhilr8bi/">
-        <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Link_to_my_Resume-FF0000?style=for-the-badge" alt="Portfolio"/>
     </a>
     <a href="https://github.com/reynaroma">
         <img src="https://komarev.com/ghpvc/?username=reynaroma" alt="Profile Views" style="filter: invert(1); width: 100px; height: 20px;"/>
