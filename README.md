@@ -33,7 +33,8 @@
     <img src="https://img.shields.io/badge/Portfolio-YourPortfolioColor?style=for-the-badge" alt="Portfolio"/>
     </a>
     <a href="https://github.com/reynaroma">
-    <img src="https://img.shields.io/badge/Profile_Views-YourProfileViewsColor?style=for-the-badge" alt="Profile Views"/>
+        <img src="https://komarev.com/ghpvc/?username=reynaroma" alt="Profile Views"/>
     </a>
+    [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://flowcv.com/resume/eldhilr8bi)
 </div>
 
