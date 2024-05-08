@@ -7,3 +7,12 @@
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="Coding GIF">
 </div>
 
+<div align="center">
+    <h2>About Me</h2>
+    <p>I'm a Software Developer based in Saskatchewan, Canada. I develop user interfaces and web applications.
+    with experience in JavaScript and expertise in frameworks like ReactJS, and NodeJS. I‘m a quick learner and 
+    collaborate closely with the team to create efficient, scalable, and user-friendly solutions that solve 
+    real-world problems. Let‘s work together to bring your ideas to life and create something amazing.</p>
+    
+</div>
+
