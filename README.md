@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-    <p>
-        <img src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx/giphy.gif" alt="Descriptive Text for the GIF" />
-    </p>
+<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
+
 </div>
