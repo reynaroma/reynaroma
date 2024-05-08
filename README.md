@@ -55,8 +55,8 @@
 
 <div align="center">
     <h2>:tada: Other Technologies and Frameworks</h2>
-    <p>Frameworks are the bacbone of the development process, providing the structure and tools necessary for building scalable,
-    efficient applications. Here's the glance of the other technologies I used:</p>
+    <p>Frameworks are the backbone of the development process, providing the structure and tools necessary for building scalable,
+    efficient applications. Here's the glance of the other technologies and frameworks I used:</p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -72,5 +72,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
-
 </div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reynaroma&theme=github_dark"             alt="Reynaroma's GitHub Stats"/>
+</div>
+
