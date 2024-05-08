@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="VIEW ON GITHUB"/>
     </a>
     <a href="mailto:roma.reynamay@gmail.com">
-        <img src="https://img.shields.io/badge/roma.reynamay@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/roma.reynamay@gmail.com-ac9bd6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://next-animated-portfolio-reynaroma.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-cb99c9?style=for-the-badge" alt="Portfolio"/>
