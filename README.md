@@ -8,11 +8,32 @@
 </div>
 
 <div align="center">
-    <h2>About Me</h2>
+    <h2>:alien: About Me</h2>
     <p>I'm a Software Developer based in Saskatchewan, Canada. I develop user interfaces and web applications.
     with experience in JavaScript and expertise in frameworks like ReactJS, and NodeJS. I‘m a quick learner and 
     collaborate closely with the team to create efficient, scalable, and user-friendly solutions that solve 
     real-world problems. Let‘s work together to bring your ideas to life and create something amazing.</p>
     
+</div>
+<div align="center">
+    <h2>:globe_with_meridians: Connect with Me</h2>
+    <p>To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach
+    out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology.
+    Cheers! :beers:</p>
+    <a href="https://www.linkedin.com/in/reyna-may-roma/">
+        <img src="https://img.shields.io/badge/REYNA_MAY_ROMA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/reynaroma">
+    <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="VIEW ON GITHUB"/>
+    </a>
+    <a href="mailto:roma.reynamay@gmail.com">
+    <img src="https://img.shields.io/badge/roma.reynamay@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://next-animated-portfolio-reynaroma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-YourPortfolioColor?style=for-the-badge" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/reynaroma">
+    <img src="https://img.shields.io/badge/Profile_Views-YourProfileViewsColor?style=for-the-badge" alt="Profile Views"/>
+    </a>
 </div>
 
