@@ -38,7 +38,8 @@
     <a href="https://github.com/reynaroma">
         <img src="https://komarev.com/ghpvc/?username=reynaroma" alt="Profile Views" style="filter: invert(1); width: 100px; height: 20px;"/>
     </a>
-
-
+</div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/reynaroma/reynaroma/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
